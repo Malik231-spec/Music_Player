@@ -211,9 +211,9 @@ into one beautiful media player experience.
 
 # 👨‍💻 Author
 
-### Malik Music Player
+### Malik IZZAT BAIG
 
-Built with ❤️ using Python, React, and modern web technologies.
+Built with ❤️ using React, Html, javaScript and TailwindCSS and modern web technologies.
 
 ---
 
