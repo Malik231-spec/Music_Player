@@ -105,7 +105,7 @@ Simply drag media files into the player window and start playing instantly.
 
 ```bash
 git clone https://github.com/Malik231-spec/Music_Player.git
-cd malik-music-player
+cd Music_Player
 ```
 
 ---
